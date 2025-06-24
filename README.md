@@ -52,9 +52,8 @@ Millions of Thalassemia patients require frequent blood transfusions. Rural pati
 - Blockchain learning curve → Simplified Web3 usage  
 
 ## 🌐 Links  
-- 🔗 [Landing Page](https://sanghasetu.vercel.app)  
-- 🖼️ [Mockup](https://drive.google.com/your-mockup-link)  
-- 📄 [Pitch Deck PDF](https://drive.google.com/your-deck-link)  
+-GitHub Repo: https://github.com/Ashmithaaaa/sanghasetu  
+-Pitch Deck: https://docs.google.com/document/d/1IcLXWHht51U2V3TXqddgBqH9JBGltq9AbaYr7GMR7ps/view  
 
 ---
 
